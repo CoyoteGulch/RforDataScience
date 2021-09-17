@@ -7,6 +7,7 @@ Dplyr notes:
 the dplyr verbs use == in the arguments
 use near() to compare calculations for equality
 all aggregation functions in dplyr have an na.rm argument that removes the missing values prior to computation
+rename() renames the column in the tibble
 
 08/11/2021: Start with exercises 5.6.7
 09/16/2021: Working through Exercises 5.2.4 again
